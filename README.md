@@ -12,7 +12,8 @@ In this setup all config files and nicknames.txt should be installed in the `cfg
 
 # Locked nicknames
 
-Back in 2017 Valve added a [feature](https://blog.counter-strike.net/index.php/2017/10/19582/) for locking nicknames for SteamID's which is commonly used by tournament organizers. A copy of this file is also located here (mostly to make it easy for others, but also showing how the file works).
+Back in 2017 Valve added a [feature](https://blog.counter-strike.net/index.php/2017/10/19582/) for locking nicknames for SteamID's which is commonly used by tournament organizers. A copy of this file is also located here (mostly to make it easy for others, but also showing how the file works).  
+I have created a simple script for generating these avatars, which can be found [here](https://github.com/suom1/csgo-competitive-scripts/blob/main/server/generate_avatars.sh), and simple documentation of the usage is found both in script and [here](https://github.com/suom1/csgo-competitive-scripts/blob/main/README.md).
 
 # Tournaments
 - PGL Major Stockholm 2021
