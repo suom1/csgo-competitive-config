@@ -1,4 +1,4 @@
-# CS:GO Competitive Configs
+# CS:GO Competitive Serverconfigs
 
 When you're going to set up a CS:GO server for your local CS:GO LAN or an online tournament, this problem always comes up. What CS:GO config should be used for the tournament?
   
