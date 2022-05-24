@@ -8,7 +8,8 @@ There are a few settings that are not in the rulebook, and a few that have been 
 
 # Installation
 
-In this setup all config files and nicknames.txt should be installed in the `cfg` directory. 
+For the server configs, everything in the `server` directory in this repo should be placed inside the `cfg` directory where you have installed `srcds`.  
+The client configurations are ment to be loaded in the client, which can be done in many different ways. We think it's easiest if you place the configs in `C:\Program Files (x86)\Steam\userdata\<ID>\730\local\cfg` (might be different if you have chosen to install Steam in different path) and then just add `+exec <config>` into your launchoptions for CS:GO.  
 
 ### Locked nicknames
 
