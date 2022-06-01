@@ -7,3 +7,4 @@
 !.github
 !*.cfg
 !*.txt
+!*.conf
