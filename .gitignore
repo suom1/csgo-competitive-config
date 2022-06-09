@@ -2,8 +2,9 @@
 !*/
 !.gitattributes
 !.gitignore
-!README.md
 !.gitkeep
 !.github
 !*.cfg
 !*.txt
+!*.conf
+!*.md
